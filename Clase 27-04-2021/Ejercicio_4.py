@@ -16,3 +16,5 @@ class contador:
     
     def valorNuevo(self, valor_nuevo):
         self.valor=valor_nuevo
+
+Numero = contador(20)
